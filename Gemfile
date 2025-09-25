@@ -1,2 +1,5 @@
 # Needed for GitHub Pages
-gem 'jemoji'
+
+source "https://rubygems.org"
+
+gem "jemoji"
