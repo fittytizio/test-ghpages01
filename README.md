@@ -2,7 +2,9 @@
 
 Test with GitHub Pages 01
 
-:slightly_smiling_face:
+Some emojis:
+
+:slightly_smiling_face: :speaker: :heart: :chart: :notes: :page_facing_up:
 
 ## SVG tests
 
